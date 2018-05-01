@@ -2,7 +2,7 @@
 /*global module:false*/
 module.exports = function(grunt) {
 
-  // Projecccccccccccccct configuration.
+  // Project configuration.
   grunt.initConfig({
     // Task configuration.
     jshint: {
